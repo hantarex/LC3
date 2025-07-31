@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   public counter = 0;
-  title = 'LC1';
+  title = 'LC3';
 }
